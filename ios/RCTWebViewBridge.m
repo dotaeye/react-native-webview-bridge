@@ -66,6 +66,7 @@ NSString *const RCTWebViewBridgeSchema = @"wvb";
     _webView = [[UIWebView alloc] initWithFrame:self.bounds];
     _webView.delegate = self;
     _webView.mediaPlaybackRequiresUserAction = NO;
+    _webView.keyboardDisplayRequiresUserAction = NO;
     [self addSubview:_webView];
   }
   return self;
