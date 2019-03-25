@@ -1,6 +1,6 @@
 {
-  "name": "react-native-webview-bridge",
-  "version": "0.40.1",
+  "name": "react-native-webview-bridge-munote",
+  "version": "0.0.3",
   "description": "React Native WebView Javascript Bridge",
   "main": "webview-bridge",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:alinz/react-native-webview-bridge.git"
+    "url": "git@github.com:dotaeye/react-native-webview-bridge.git"
   },
   "keywords": [
     "react-native",
@@ -26,9 +26,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alinz/react-native-webview-bridge/issues"
+    "url": "https://github.com/dotaeye/react-native-webview-bridge/issues"
   },
-  "homepage": "https://github.com/alinz/react-native-webview-bridge",
+  "homepage": "https://github.com/dotaeye/react-native-webview-bridge",
   "dependencies": {
     "create-react-class": "^15.6.0",
     "invariant": "^2.2.2",
